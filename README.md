@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+### 🌟 Carrinho de Compras com Context API do React
+Desenvolvi um carrinho de compras utilizando a poderosa Context API do React para gerenciar o estado global do aplicativo, garantindo que as informações sejam compartilhadas entre diferentes componentes. Este projeto é totalmente responsivo, proporcionando uma experiência de usuário eficiente e consistente em todos os dispositivos.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Funcionalidades:
+Adição e remoção de produtos do carrinho
+Atualização da quantidade de produtos no carrinho
+Cálculo automático do total do carrinho
+Persistência dos dados do carrinho durante a navegação
+Tecnologias Utilizadas:
+React.js
+Context API
+CSS para responsividade
+Deploy realizado com Vercel
+Este projeto demonstra minha capacidade de trabalhar com a Context API do React para gerenciar estados complexos em aplicações web modernas. Sinta-se à vontade para explorar o código e ver o resultado final em ação!
 
-## Available Scripts
+### 🌟 Shopping Cart with React Context API
+I developed a shopping cart using the powerful React Context API to manage the application's global state, ensuring information is shared across different components. This project is fully responsive, providing an efficient and consistent user experience across all devices.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Features:
+Adding and removing products from the cart
+Updating the quantity of products in the cart
+Automatic cart total calculation
+Persistence of cart data during navigation
+Technologies Used:
+React.js
+Context API
+CSS for responsiveness
+Deployed with Vercel
+This project showcases my ability to work with the React Context API to manage complex states in modern web applications. Feel free to explore the code and see the final result in action!
